@@ -1,34 +1,31 @@
-# Status: Patched. No longer works.
-The workaround has been patched by FlexStudent by implementing Cross-Origin Policy on their website. The extension shall no longer work. Thank you for your  continued support throughout the time.
+# Total Marks Chrome Extension
 
-## Flex Student Portal Insights
-This is a Chrome extension that allows you to view hidden insights in your course page easily. This was developed with a quick solution in mind and gets the job done in the simplest way possible. Contributions and features welcome.
+## Description
+This Chrome extension simplifies the process of viewing total and obtained marks on your course page. Developed with efficiency in mind, it provides a quick solution to easily access your marks. Contributions and additional features are welcomed.
 
-## Installation Procedure
-Follow this installation procedure to get started with the extension. The installation is dependency free and only requires Chrome.
+## Installation
 
-- Clone this repository.
+### Prerequisites
+- Google Chrome browser
 
-- Unzip the folder.
-
-- Visit ```chrome://extensions/```.
-
-- Enable developer mode.
-
-- Click on ```Load unpacked``` and select the unzipped folder.
+### Steps
+1. Clone this repository to your local machine.
+2. Unzip the downloaded folder.
+3. Open Google Chrome and navigate to `chrome://extensions/`.
+4. Enable developer mode.
+5. Click on `Load unpacked` and select the unzipped folder containing the extension files.
 
 ## Installation Video
+
+For a visual guide on installing the extension, watch this video:
 
 [![Installation Video](images/blackvideo.jpg)](https://youtu.be/ZtzXTtzA8EM)
 
 ## Usage
-- Visit your Marks page on FlexStudent Portal.
 
-- You will start to see a "Get Insights" button on top of your course title.
-
-- Click on the button to view the hidden insights.
-
-![](images/usage.png)
+1. Navigate to your Marks page on the FlexStudent Portal.
+2. Click on the "Grand Total Marks" button to instantly view your marks.
 
 ## Disclaimer
-This code is provided for educational purposes only. The code is not intended to be used for malicious purposes or to gain unauthorized access to any system. The author of this code takes no responsibility for any misuse of the code. Use at your own risk.
+
+This code is provided solely for educational purposes. It is not intended for malicious use or unauthorized access to any system. The author bears no responsibility for any misuse of the code. Use it responsibly and at your own risk.
