@@ -45,7 +45,7 @@ function load() {
         }
 
         // Construct the ID of the <td> element to check for existence
-        var tdIdToCheck = "GrandtotalClassAvg_" + tabPaneID;
+        var tdIdToCheck = "GrandtotalColMarks_" + tabPaneID;
 
         // Check if a <td> element with the specified ID exists in the tbody
         var tdExists = $('#' + courseCode + "-Grand_Total_Marks").find('table tbody').find('td#' + tdIdToCheck).length > 0;
